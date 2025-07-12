@@ -2,6 +2,26 @@
 
 A modern Point of Sale (POS) system built with Flutter, featuring a product catalog, shopping cart management, and checkout functionality. This application demonstrates clean architecture principles, state management with BLoC pattern, and responsive design.
 
+## 📋 Basic Information
+
+- **Flutter Version**: 3.29.3
+- **Dart SDK**: 3.7.2
+- **Development Time**: 6 hours
+- **Status**: ✅ Completed (no skipped items)
+
+### Quick Start
+
+```bash
+# Install dependencies
+flutter pub get
+
+# Run tests
+flutter test
+
+# Run the application
+flutter run
+```
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -21,10 +41,6 @@ A modern Point of Sale (POS) system built with Flutter, featuring a product cata
 - **Error Handling**: Graceful error states with retry functionality
 - **Loading States**: Proper loading indicators throughout the app
 - **Testing**: Comprehensive unit tests with bloc_test
-
-## 📱 Screenshots
-
-_[Screenshots would be added here]_
 
 ## 🏗️ Architecture
 
